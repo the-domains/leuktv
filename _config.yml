@@ -2,6 +2,7 @@ name: LEUK TV
 favicon: null
 layout_spectrum: 0.5896227105986327
 typography_spectrum: 0.9428830330725759
+title: LEUK TV
 cta:
   domain: null
   bucket: null
